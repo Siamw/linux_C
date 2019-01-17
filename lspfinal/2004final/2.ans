@@ -1,0 +1,11 @@
+gcc -o pthread  -L ../local/lib pthread.c -lpthread
+
+
+
+export $PATH 
+
+ vi .bash_profile 설정 
+
+
+ : 으로 구분하여 덧붙이면 된다. 
+
